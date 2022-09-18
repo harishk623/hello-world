@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p> Kal bazar me kali rat hone bali ha 
+    <p> I have to updatdate 48
     <hr>
 
     <label for="email"><b>Email</"Harish Kumar"></label>
