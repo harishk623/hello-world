@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p> I am belongs to kasganj and i want to confitm a 
+    <p> now i am in pisoftek 
     <hr>
 
     <label for="email"><b>Email</"Harish Kumar"></label>
